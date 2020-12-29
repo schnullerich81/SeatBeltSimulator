@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="SeatBeltSimulator.SettingsControlDemo"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SeatBeltSimulator"
+             xmlns:styles="clr-namespace:SimHub.Plugins.Styles;assembly=SimHub.Plugins" mc:Ignorable="d" 
+             xmlns:ui="clr-namespace:SimHub.Plugins.UI;assembly=SimHub.Plugins" 
+             d:DesignHeight="300" d:DesignWidth="300">
+
+    <Grid>
+        <styles:SHSection Title="Kalibrierung">
+            <StackPanel>
+                <styles:SHButtonPrimary x:Name="SelectPort" HorizontalAlignment="Left" Click="SHButtonPrimary_Click_1">Anschluss wählen</styles:SHButtonPrimary>
+                <styles:SHButtonSecondary x:Name="ButtonIn" HorizontalAlignment="Left" Click="SHButtonPrimary_Click">Einfahren</styles:SHButtonSecondary>
+                <styles:SHButtonSecondary HorizontalAlignment="Left" Click="SHButtonSecondary_Click">Ausfahren</styles:SHButtonSecondary>
+                <!--styles:SHLinkButton HorizontalAlignment="Left">Link button</>
+                <styles:SHLinkButtonSmall HorizontalAlignment="Left">Link button small</styles:SHLinkButtonSmall-->
+                <!--ui:ControlsEditor FriendlyName="Increment Speed Warning" ActionName="DataPluginDemo.IncrementSpeedWarning"></-->  
+            </StackPanel>
+        </styles:SHSection>
+    </Grid>
+</UserControl>
