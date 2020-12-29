@@ -21,7 +21,7 @@ So the idea is to build a seatbelt system that works with standard sim rigs.
   
 Please note that 
  - the seatbelt system makes some noise - so it works best with headphones or VR headsets
- - to simulate suspension forces, the use of *bass shakers* is suggested
+ - to simulate suspension forces (in a relatively cheap way), the use of *bass shakers* is suggested
 
 **How to build the seatbelt simulator hardware?**
  - seatbelt harness
