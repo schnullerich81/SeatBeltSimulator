@@ -1,6 +1,7 @@
 # SeatBeltSimulator
 
-This is a DIY project for enthusiastic sim racers.
+This is a DIY project for enthusiastic sim racers.  
+![racing simulator](https://raw.githubusercontent.com/schnullerich81/SeatBeltSimulator/main/doc/simulator.jpg)
 
 **Motivation**  
 During some research about 'how to improve my sim rig' i stumbled across 'motion platforms'.  
