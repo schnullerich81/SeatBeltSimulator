@@ -17,7 +17,8 @@ Here is a link to a seatbelt system by vesaro https://www.vesaro.com/store/pc/vi
   
 So the idea is to build a seatbelt system that works with standard sim rigs.  
 [https://youtu.be/TyVhH9arggY](https://youtu.be/TyVhH9arggY)  
-![DIY seatbelt simulator](https://raw.githubusercontent.com/schnullerich81/SeatBeltSimulator/main/doc/seatbelt.jpg)
+![DIY seatbelt simulator](https://raw.githubusercontent.com/schnullerich81/SeatBeltSimulator/main/doc/seatbelt.jpg)  
+  
 Please note that 
  - the seatbelt system makes some noise - so it works best with headphones or VR headsets
  - to simulate suspension forces, the use of *bass shakers* is suggested
