@@ -2,7 +2,7 @@
 
 This is a DIY project for enthusiastic sim racers.
 
-**Motivation**
+**Motivation**  
 During some research about 'how to improve my sim rig' i stumbled across 'motion platforms'.
 I made 2 discoveries:
 
